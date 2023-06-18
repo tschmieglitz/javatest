@@ -6,3 +6,4 @@ public class Berechnung {
         System.out.println("Die Summe von " + werte.zahl1 + " und " + werte.zahl2 + " ist: " + ergebnis);
     }
 }
+
